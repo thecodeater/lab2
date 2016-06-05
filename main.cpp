@@ -1,3 +1,5 @@
+//Most of the comment are actual code that support user input, for this assignment those feature were disabled for command line input.
+
 #include <iostream>
 
 using namespace std;
